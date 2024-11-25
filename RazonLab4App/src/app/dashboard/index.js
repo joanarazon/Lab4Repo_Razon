@@ -31,7 +31,7 @@ const Dashboard = () => {
       {/* Performance Card */}
       <View style={styles.performanceCard}>
         <View style={styles.cardHeader}>
-          <Text style={styles.cardTitle}>Developer Performance</Text>
+          <Text style={styles.cardTitle}>Developer's Performance</Text>
           <Text style={styles.cardLink}>See more</Text>
         </View>
         <View style={styles.cardContent}>
